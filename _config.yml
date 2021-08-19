@@ -8,7 +8,7 @@ date:                'March 9-11, 2020'
 description:         'Annual conference for the North-American Semantic Web community'
 url:                 'http://us2ts.org'
 logo:                'us2ts_color.png'
-baseurl:             'https://matrix-msu.github.io/us2ts.github.io/'
+baseurl:             ''
 
 # About/contact
 author:
